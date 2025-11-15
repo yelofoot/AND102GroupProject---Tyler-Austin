@@ -73,7 +73,7 @@ LocalLens is a mobile app that delivers daily location-based photo challenges, e
 - Home → Profile → Submission Preview (via past submission)
 
 ## Wireframes   
-<img src="AND102GroupProject---Tyler-Austin/wireframe.jpg" width=600>
+<img src="https://github.com/yelofoot/AND102GroupProject---Tyler-Austin/blob/main/wireframes/wireframe.jpeg?raw=true" width=600>
 
 <br><br>
 
