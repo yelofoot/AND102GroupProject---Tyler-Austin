@@ -74,7 +74,7 @@ LocalLens is a mobile app that delivers daily location-based photo challenges, e
 
 ## Wireframes  
 [Add your hand-sketched wireframe images here]  
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="wireframe.jpg" width=600>
 
 <br><br>
 
